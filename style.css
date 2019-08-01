@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	//background-color: aqua;
+}
+.col-sm {
+	background-color: #BBBBBB;
+	border: 2px dashed #313030;
+	border-radius: 5px;
+	margin: 5px;
+}
